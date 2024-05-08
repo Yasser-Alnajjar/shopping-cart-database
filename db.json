@@ -1,0 +1,149 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ocean Spray - Kiwi Strawberry",
+      "category": "Site ",
+      "price": 79,
+      "isFav": true,
+      "image": "./images/products/product-1.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 2,
+      "name": "Oven Mitts - 15 Inch",
+      "category": "Roofing ",
+      "price": 14,
+      "isFav": true,
+      "image": "./images/products/product-2.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 3,
+      "name": "Wine - Magnotta, Merlot Sr Vqa",
+      "category": "Retaining ",
+      "price": 51,
+      "isFav": false,
+      "image": "./images/products/product-3.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 4,
+      "name": "Cheese - Le Cru Du Clocher",
+      "category": "HVAC",
+      "price": 52,
+      "isFav": false,
+      "image": "./images/products/product-4.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 5,
+      "name": "Nori Sea Weed - Gold Label",
+      "category": "RF ",
+      "price": 65,
+      "isFav": false,
+      "image": "./images/products/product-5.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 6,
+      "name": "Energy Drink Red Bull",
+      "category": "Drywall ",
+      "price": 92,
+      "isFav": true,
+      "image": "./images/products/product-6.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 7,
+      "name": "Filter - Coffee",
+      "category": "Fire ",
+      "price": 97,
+      "isFav": true,
+      "image": "./images/products/product-7.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 8,
+      "name": "Soup - Base Broth Beef",
+      "category": "Marlite ",
+      "price": 5,
+      "isFav": false,
+      "image": "./images/products/product-8.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 9,
+      "name": "Creamers - 10%",
+      "category": "Hard ",
+      "price": 39,
+      "isFav": true,
+      "image": "./images/products/product-9.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 10,
+      "name": "Wine - Fontanafredda Barolo",
+      "category": "Asphalt ",
+      "price": 52,
+      "isFav": false,
+      "image": "./images/products/product-10.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 11,
+      "name": "White Fish - Filets",
+      "category": "Masonry ",
+      "price": 39,
+      "isFav": true,
+      "image": "./images/products/product-11.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 12,
+      "name": "Crackers - Trio",
+      "category": "EIFS",
+      "price": 59,
+      "isFav": true,
+      "image": "./images/products/product-12.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 13,
+      "name": "Pastry - Cherry Danish - Mini",
+      "category": "Roofing ",
+      "price": 76,
+      "isFav": false,
+      "image": "./images/products/product-13.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 14,
+      "name": "Beans - Fava Fresh",
+      "category": "Asphalt ",
+      "price": 17,
+      "isFav": false,
+      "image": "./images/products/product-14.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 15,
+      "name": "Tomatoes - Vine Ripe, Red",
+      "category": "Roofing ",
+      "price": 5,
+      "isFav": true,
+      "image": "./images/products/product-15.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 16,
+      "name": "Eel Fresh",
+      "category": "Hard ",
+      "price": 37,
+      "isFav": true,
+      "image": "./images/products/product-16.jpg",
+      "quantity": 20
+    }
+  ],
+  "cart": []
+}
